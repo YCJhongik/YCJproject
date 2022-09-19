@@ -23,6 +23,20 @@ MZ세대, 최신 유행하는 패션이 빠르게 변하고 옷으로 자신의 
 ### project3
 ## 실시간 피아노 연주 프로그램
 
+![image](https://user-images.githubusercontent.com/104131424/190945059-6b6bb35a-99b0-44fc-963c-c21c0aaba66a.png)
+
+![image](https://user-images.githubusercontent.com/104131424/190945094-02080953-f625-4ff3-a227-73f49839ab08.png)
+
+![image](https://user-images.githubusercontent.com/104131424/190945134-6597ecd1-726f-480f-9a7a-05152ac7fdd3.png)
+
+![image](https://user-images.githubusercontent.com/104131424/190945151-e1fa1994-8a0b-4ba6-9064-0741f6fcb556.png)
+![image](https://user-images.githubusercontent.com/104131424/190945171-354b9cb4-5193-4932-92dc-a598020ac62a.png)
+![image](https://user-images.githubusercontent.com/104131424/190945181-11ac4317-5c92-45bf-8b98-0f6d70764507.png)
+![image](https://user-images.githubusercontent.com/104131424/190945202-a85e14cc-8ce7-4aba-bb66-d60f6be4abe6.png)
+![image](https://user-images.githubusercontent.com/104131424/190945252-d619da73-4cc4-462c-81ac-de7ebbb27615.png)
+
+
+
 ![image](https://user-images.githubusercontent.com/104131424/190571315-a1a03eab-fb58-4f45-8d72-774e056382d8.png)
 
 ![image](https://user-images.githubusercontent.com/104131424/190571533-c3dc70ff-227f-4789-85d1-58c62981bc4b.png)
