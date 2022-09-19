@@ -1,11 +1,11 @@
-### project1
+# project1
 ## C++을 이용한 의류 쇼핑 사이트 기능 구현
 
 팀원들과 Requirement list, use case diagram, Communication diagram, Design class diagram을 통해 설계한 뒤 
 3명 팀원 각자가 회원, 구매자, 판매자로 각 객체가 수행할 수 있는 기능들을 구현하였습니다(report 포함)
 
 
-### project2
+# project2
 ## k-means 알고리즘과 knn알고리즘을 이용한 옷 추천 프로그램
 
 
@@ -20,7 +20,7 @@ MZ세대, 최신 유행하는 패션이 빠르게 변하고 옷으로 자신의 
 
 
 
-### project3
+# project3
 ## 실시간 피아노 연주 프로그램
 
 ![image](https://user-images.githubusercontent.com/104131424/190945059-6b6bb35a-99b0-44fc-963c-c21c0aaba66a.png)
