@@ -20,6 +20,10 @@
 
 ![image](https://user-images.githubusercontent.com/104131424/196586238-dd17cf54-8c21-4791-8314-01e1e6c6d369.png)
 
+**어학**
+
+OPIC(영어) IH(Intermediate High) 
+2022.09.18 취득
 
 **Birth**
 
