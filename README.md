@@ -70,6 +70,9 @@ changcho77@naver.com
 
 역할: 회원 모듈 시스템 개발
 
+![image](https://user-images.githubusercontent.com/104131424/196589998-079655ec-8baf-42f6-b2d9-b93b902025f3.png)
+
+
 # project2
 ## Pyhon 기반 k-means 알고리즘과 knn알고리즘을 이용한 옷 추천 프로그램
 
