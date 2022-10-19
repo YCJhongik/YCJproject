@@ -29,7 +29,28 @@
 
 changcho77@naver.com
 
+# 🛠️ Stacks
 
+---
+
+### Language
+
+- Java
+- Python
+- C++
+
+### Backend
+
+- Spring Boot, Spring MVC, Spring
+
+### DataBase
+
+- MySQL
+
+### Collaboration & Tools
+
+- Git, Notion
+- VS Code, Eclipse, Visual Studio
 
 
 # 진행한 프로젝트
